@@ -1,5 +1,9 @@
 ## EML4U: Erklärbares Maschinelles Lernen für interaktive episodische Updates von Modellen
 
+### Publikationen
+
+- Drift Detection in Text Data with Document Embeddings ([DOI: 10.1007/978-3-030-91608-4_11](https://doi.org/10.1007/978-3-030-91608-4_11), [Vorab-Publikation (PDF)](https://papers.dice-research.org/2021/IDEAL2021_DriftDetectionEmbeddings/Drift-Detection-in-Text-Data-with-Document-Embeddings-public.pdf), [Code](https://github.com/EML4U/Drift-detector-comparison))
+
 ### Partner
 
 - [Universität Bielefeld - Institut für Kognition und Robotik (CoR-Lab)](https://www.uni-bielefeld.de/)
@@ -7,12 +11,6 @@
 - [Universität Paderborn - Arbeitsgruppe Intelligente Systeme und Maschinelles Lernen (ISML)](https://en.cs.uni-paderborn.de/is)
 - [Semalytix GmbH](https://www.semalytix.com/)
 
-### Publikationen
-
-- Drift Detection in Text Data with Document Embeddings ([DOI: 10.1007/978-3-030-91608-4_11](https://doi.org/10.1007/978-3-030-91608-4_11))
-
 ### Förderung
 
-Gefördert vom  
-Bundesministerium für Bildung und Forschung (BMBF) / DLR Projektträger  
-im Bereich [Erklärbarkeit und Transparenz von KI](https://www.softwaresysteme.pt-dlr.de/de/ki-erkl-rbarkeit-und-transparenz.php).
+Gefördert vom Bundesministerium für Bildung und Forschung (BMBF) / DLR Projektträger im Bereich [Erklärbarkeit und Transparenz von KI](https://www.softwaresysteme.pt-dlr.de/de/ki-erkl-rbarkeit-und-transparenz.php).
