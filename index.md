@@ -13,7 +13,7 @@ Mit Maschinellem Lernen (ML) lassen sich anhand von Daten komplexe Zusammenhäng
 
 ### Partner
 
-- [Universität Bielefeld Institut für Kognition und Robotik (CoR-Lab)](https://www.uni-bielefeld.de/) (Koordination)
+- [Universität Bielefeld Institut für Kognition und Robotik (CoR-Lab)](https://www.cit-ec.de/en/tcs) (Koordination)
 - [Universität Paderborn - Arbeitsgruppe Data Science (DICE)](https://dice-research.org/EML4U)
 - [Universität Paderborn - Arbeitsgruppe Intelligente Systeme und Maschinelles Lernen (ISML)](https://en.cs.uni-paderborn.de/is)
 - [Semalytix GmbH](https://www.semalytix.com/)
