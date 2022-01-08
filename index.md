@@ -10,11 +10,13 @@ Mit Maschinellem Lernen (ML) lassen sich anhand von Daten komplexe Zusammenhäng
 
 [![EML4U Poster](/assets/img/EML4U-poster-BMBF-AHM-2022-preview.png)](/assets/img/EML4U-poster-BMBF-AHM-2022.png)
 
-Kontakte:
+Sie finden uns hier: Session 3, Raum D, Poster D45, 13:00 Uhr, AI Explainability and Transparency.
+Direkte Kontakte:
 [Adrian Wilke](https://dice-research.org/AdrianWilke) (Universität Paderborn, DICE),
 [Robert Feldhans](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=231000504) (Universität Bielefeld, CoR-Lab),
 [Barbara Hammer](https://cit-ec.de/en/tcs/barbara-hammer) (Universität Bielefeld, CoR-Lab),
-[Eyke Hüllermeier](https://www.kiml.ifi.lmu.de/team/huellermeier/) (Universität Paderborn, ISML; Ludwig-Maximilians-Universität München)
+[Eyke Hüllermeier](https://www.kiml.ifi.lmu.de/team/huellermeier/) (Universität Paderborn, ISML; Ludwig-Maximilians-Universität München),
+[Axel Ngonga](https://dice-research.org/AxelCyrilleNgongaNgomo) (Universität Paderborn, DICE).
 
 ### Publikationen
 
