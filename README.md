@@ -4,3 +4,4 @@
 - Used theme:
     - https://pages-themes.github.io/minimal/
     - https://github.com/orderedlist/minimal
+- [EML4U Publications](_bibliography/)

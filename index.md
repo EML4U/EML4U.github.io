@@ -4,6 +4,36 @@
 
 Mit Maschinellem Lernen (ML) lassen sich anhand von Daten komplexe Zusammenhänge modellieren. Somit können aufwändige und oft grob vereinfachte mathematische Modellierungen bestimmter Gegebenheiten umgangen werden. Außerdem eröffnet sich zudem eine neuartige Funktionalität: ML-Modelle können datengetrieben an geänderte Anforderungen und Bedingungen angepasst werden. Um eine regelmäßige Anpassung zu erreichen, werden Daten während des Gebrauchs eines Modells gesammelt und das Modell unter Berücksichtigung dieser Information neu trainiert, es findet also ein episodisches Update des ML-Modells statt.
 
+### Publikationen
+
+Artelt, André, Fabian Hinder, Valerie Vaquet, Robert Feldhans, and
+Barbara Hammer. 2022. “**Contrasting Explanations for Understanding and
+Regularizing Model Adaptations.**” *Neural Processing Letters*, May.
+<https://doi.org/10.1007/s11063-022-10826-5>.
+
+Feldhans, Robert, Adrian Wilke, Stefan Heindorf, Mohammad Hossein
+Shaker, Barbara Hammer, Axel-Cyrille Ngonga Ngomo, and Eyke Hüllermeier.
+2021. “**Drift Detection in Text Data with Document Embeddings.**” In
+*Intelligent Data Engineering and Automated Learning – IDEAL 2021*,
+edited by Hujun Yin, David Camacho, Peter Tino, Richard Allmendinger,
+Antonio J. Tallón-Ballesteros, Ke Tang, Sung-Bae Cho, Paulo Novais, and
+Susana Nascimento, 107–18. Cham: Springer International Publishing.
+<https://doi.org/10.1007/978-3-030-91608-4_11>.
+
+Shaker, Mohammad Hossein, and Eyke Hüllermeier. 2021. “**Ensemble-Based
+Uncertainty Quantification: Bayesian Versus Credal Inference.**” arXiv.
+<https://doi.org/10.48550/ARXIV.2107.10384>.
+
+Zahera, Hamada M., Rricha Jalota, Mohamed Ahmed Sherif, and Axel-Cyrille
+Ngonga Ngomo. 2021. “**I-AID: Identifying Actionable Information from
+Disaster-Related Tweets.**” *IEEE Access* 9: 118861–70.
+<https://doi.org/10.1109/ACCESS.2021.3107812>.
+
+Zahera, Hamada M., Daniel Vollmers, Mohamed Ahmed Sherif, and
+Axel-Cyrille Ngonga Ngomo. 2022. “**MultPAX: Keyphrase Extraction Using
+Language Models and Knowledge Graphs.**” In *ISWC*. Springer.
+<https://papers.dice-research.org/2022/ISWC-MultPAX/public.pdf>.
+
 ### Veranstaltungen
 
 #### 2022 All-Hands-Meeting of the BMBF-funded AI Research Projects
@@ -11,17 +41,6 @@ Mit Maschinellem Lernen (ML) lassen sich anhand von Daten komplexe Zusammenhäng
 [![EML4U Poster](/assets/img/EML4U-poster-BMBF-AHM-2022-preview.png)](/assets/img/EML4U-poster-BMBF-AHM-2022.png)
 
 Standort: Session 3, Raum D, Poster D45, 13:00 Uhr, AI Explainability and Transparency.
-
-### Publikationen
-
-- Robert Feldhans, Adrian Wilke, Stefan Heindorf, Mohammad Hossein Shaker, Barbara Hammer, Axel-Cyrille Ngonga Ngomo, Eyke Hüllermeier (2021):  
-  **Drift Detection in Text Data with Document Embeddings**
-    - [DOI: 10.1007/978-3-030-91608-4_11](https://doi.org/10.1007/978-3-030-91608-4_11)
-    - [Preprint (PDF)](https://papers.dice-research.org/2021/IDEAL2021_DriftDetectionEmbeddings/Drift-Detection-in-Text-Data-with-Document-Embeddings-public.pdf)
-    - [Software](https://github.com/EML4U/Drift-detector-comparison)
-- Mohammad Hossein Shaker, Eyke Hüllermeier (2021):  
-  **Ensemble-based Uncertainty Quantification: Bayesian versus Credal Inference**
-    - [Preprint (https://arxiv.org/)](https://arxiv.org/abs/2107.10384)
 
 ### Partner
 
