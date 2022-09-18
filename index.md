@@ -12,8 +12,8 @@ Regularizing Model Adaptations.**” *Neural Processing Letters*, May.
 <https://doi.org/10.1007/s11063-022-10826-5>.
 
 Feldhans, Robert, Adrian Wilke, Stefan Heindorf, Mohammad Hossein
-Shaker, Barbara Hammer, Axel-Cyrille Ngonga Ngomo, and Eyke Hüllermeier.
-2021. “**Drift Detection in Text Data with Document Embeddings.**” In
+Shaker, Barbara Hammer, Axel-Cyrille Ngonga Ngomo, and Eyke Hüllermeier. 2021.
+“**Drift Detection in Text Datawith Document Embeddings.**” In
 *Intelligent Data Engineering and Automated Learning – IDEAL 2021*,
 edited by Hujun Yin, David Camacho, Peter Tino, Richard Allmendinger,
 Antonio J. Tallón-Ballesteros, Ke Tang, Sung-Bae Cho, Paulo Novais, and
