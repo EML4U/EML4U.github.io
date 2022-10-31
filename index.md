@@ -20,7 +20,11 @@ Mit Maschinellem Lernen (ML) lassen sich anhand von Daten komplexe Zusammenhäng
 
 ### Veranstaltungen
 
-#### 2022 All-Hands-Meeting of the BMBF-funded AI Research Projects
+#### Final Presentation (2022)
+
+[![EML4U Presentation](/assets/img/EML4U_final_presentation_preview.png)](/assets/img/EML4U_final_presentation.pdf)
+
+#### All-Hands-Meeting of the BMBF-funded AI Research Projects (2022)
 
 [![EML4U Poster](/assets/img/EML4U-poster-BMBF-AHM-2022-preview.png)](/assets/img/EML4U-poster-BMBF-AHM-2022.png)
 
