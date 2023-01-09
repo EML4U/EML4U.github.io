@@ -1,6 +1,6 @@
 # EML4U articles
 
-- [eml4u.bib](../eml4u.bib)
+- [eml4u.bib](eml4u.bib)
     - Add your publications with grant numbers like 01IS19080, 01IS19080B, etc. into this file.
 - Find publications:
     - [Google Scholar: eml4u](https://scholar.google.com/scholar?q=eml4u)
